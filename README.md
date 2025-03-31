@@ -5,6 +5,9 @@ This repository contains a project I completed to predict house prices based on 
 ## My First Large Project
 This is my first attempt at a large-scale project in the field of Data Science. I explored different steps in the data science pipeline, from data cleaning to model evaluation, and learned how to implement Gradient Boosting for a regression task.
 
+## Dataset:
+The dataset used for this project was sourced from [Kaggle](https://www.kaggle.com).
+
 ## Steps Followed:
 Data Loading and Exploration: I started by loading the dataset and performing initial exploration to understand the features and their distributions.
 
